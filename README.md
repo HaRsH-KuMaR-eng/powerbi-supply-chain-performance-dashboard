@@ -4,7 +4,7 @@
 [https://app.powerbi.com/groups/me/reports/YOUR_REPORT_ID/ReportSection?experience=power-bi](https://app.powerbi.com/groups/me/reports/b30197cc-efa4-436b-982a-487ad6019827/c047e7bb3d07670d06ae?experience=power-bi)
 
 <p align="center">
-  <img src="dashboard1.png" alt="Dashboard 1" width="900">
+  <img src="https://github.com/HaRsH-KuMaR-eng/powerbi-supply-chain-performance-dashboard/blob/f6f00848a05fa9832768cb89b8dc2e264be05d94/image1.png" alt="Dashboard 1" width="900">
 </p>
 
 <p align="center">
