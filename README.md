@@ -310,7 +310,7 @@ Helps identify operational losses and profitability.
 - Identify shortages.
 - Monitor production efficiency.
 - Track daily operational performance.
-- Analyze total business loss.
+- Analyse total business loss.
 - Measure overall profitability.
 - Support production planning.
 - Improve inventory management.
@@ -330,27 +330,6 @@ Helps identify operational losses and profitability.
 ![Dashboard 2](dashboard2.png)
 
 ---
-
-# 📁 Repository Structure
-
-```
-Supply-Chain-Performance-Dashboard
-│
-├── Dashboard.pbix
-├── Dataset
-│     ├── Demand.csv
-│     ├── Availability.csv
-│
-├── SQL
-│     ├── MySQL.sql
-│     ├── SQLServer.sql
-│
-├── Images
-│     ├── dashboard1.png
-│     ├── dashboard2.png
-│
-└── README.md
-```
 
 ---
 
@@ -378,10 +357,10 @@ Supply-Chain-Performance-Dashboard
 - MySQL
 - DAX
 - Power Query
-- Data Modeling
+- Data Modelling
 - Business Intelligence
 - Data Analytics
 
 ---
 
-## ⭐ If you found this project helpful, don't forget to Star this repository.
+
