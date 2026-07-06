@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="dashboard2.png" alt="Dashboard 2" width="900">
+  <img src="https://github.com/HaRsH-KuMaR-eng/powerbi-supply-chain-performance-dashboard/blob/7ad7a7cbd7d7332a51af5fa96b6d7480d8b45314/image2.png" alt="Dashboard 2" width="900">
 </p>
 
 ---
@@ -321,13 +321,13 @@ Helps identify operational losses and profitability.
 
 ## Dashboard 1
 
-![Dashboard 1](dashboard1.png)
+![Dashboard 1](https://github.com/HaRsH-KuMaR-eng/powerbi-supply-chain-performance-dashboard/blob/f6f00848a05fa9832768cb89b8dc2e264be05d94/image1.png)
 
 ---
 
 ## Dashboard 2
 
-![Dashboard 2](dashboard2.png)
+![Dashboard 2](https://github.com/HaRsH-KuMaR-eng/powerbi-supply-chain-performance-dashboard/blob/7ad7a7cbd7d7332a51af5fa96b6d7480d8b45314/image2.png))
 
 ---
 
